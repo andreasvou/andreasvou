@@ -13,7 +13,6 @@ I keep the technology of training organisations running, and I make it work bett
 🎓 BSc (Hons) Cyber Security and Networks – University of East London
 
 ### What you'll find here
-- [**Portfolio**](https://andreasvou.github.io) – selected work: e-learning courses, ERP/CRM implementation, tools and automations
 - [**apps-script-automations**](https://github.com/andreasvou/apps-script-automations) – small, reusable Google Apps Script examples (sample data only)
 
 ### Contact
